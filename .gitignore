@@ -1,0 +1,17 @@
+# compiled objects folder
+.obj/
+
+# libraries
+libs/
+
+# makefile
+makefile
+
+# output binaries
+out/
+
+# tests
+*.exe
+
+# IDE
+.vscode/
